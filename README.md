@@ -26,11 +26,12 @@ The blue rectangle represents the shaft after it actuates the bellcrank.
 
 ## Design and Iterations
 
-The main idea is to house the bellcrank mechanism onto a cylinder which inturn can be placed in a spindle assembly power by some motor of desired speed. The cylinder will have a bore matching th Shaft dia to accept 
+The main idea is to house the bellcrank mechanism onto a cylinder which inturn can be placed in a spindle assembly power by some motor of desired speed. The cylinder will have a bore matching th Shaft dia to accept it inside.
 
 <img src="https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/cylinder.png" width="300"/>
 
 The first and 3rd steps are make to fit into a 17mm bearing the 4th step is used to couple it to a motor. There are slots on both sides to allow the hooks to enter the bore.
+
 
 
 
