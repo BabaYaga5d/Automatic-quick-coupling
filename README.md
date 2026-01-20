@@ -30,4 +30,7 @@ The core idea is to house the bell crank mechanism inside a cylindrical body. Th
 
 ![Cylinder Design](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/cylinder.png)
 
-The first and third steps are designed to fit into a 17 mm bearing. The fourth step is used to couple the assembly to a motor. Slots are provided on both sides of the cylinder to allow the hooks to enter the bore.
+The first and third steps are designed to fit into a 17 mm bearing. The fourth step is used to couple the assembly to a motor. Slots are provided on both sides of the cylinder to allow the hooks to enter the bore and engage into the hole.
+
+
+
