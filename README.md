@@ -6,7 +6,7 @@ This was a product developed to aid in the assembly of gearbox onto a motor reli
 
 A motor needs its shaft to be roatated constantly to reduce the make the assembly of a gearbox more realiable. The motor shaft is ground to 10 micron and there is a cross drilled hole 40mm from the tip. This has to be done without the workers having to use their hands as the assembly requires them to use both hands.
 
-![Shaft](Automatic-quick-coupling/Images/Shaft.jpeg)
+![Shaft]([Automatic-quick-coupling/Images/Shaft.jpeg](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Shaft.jpeg))
 
 ## Concept
 
@@ -31,5 +31,6 @@ The main idea is to house the bellcrank mechanism onto a cylinder which inturn c
 ![Cylinder](Images\cylinder.png)
 
 The first and 3rd steps are make to fit into a 17mm bearing the 4th step is used to couple it to a motor. There are slots on both sides to allow the hooks to enter the bore.
+
 
 
