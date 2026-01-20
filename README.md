@@ -1,40 +1,33 @@
-# Automatic Quick coupling
+# Automatic Quick Coupling
 
-This was a product developed to aid in the assembly of gearbox onto a motor reliabily in a high production volume environment.
+This product was developed to aid in the reliable assembly of a gearbox onto a motor in a high-production-volume environment.
 
-## Problem statement 
+## Problem Statement
 
-A motor needs its shaft to be roatated constantly to reduce the make the assembly of a gearbox more realiable. The motor shaft is ground to 10 micron and there is a cross drilled hole 40mm from the tip. This has to be done without the workers having to use their hands as the assembly requires them to use both hands.
+The motor shaft needs to be rotated continuously to make the assembly of the gearbox more reliable. The motor shaft is ground to a tolerance of 10 microns and has a cross-drilled hole located 40 mm from the tip. This operation must be performed without the workers using their hands, as the assembly process requires them to use both hands.
 
-<img src="https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Shaft.jpeg" width="300"/>
+![Motor Shaft](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Shaft.jpeg)
 
 ## Concept
 
-The idea is to use the crossdrilled hole to drive the motor shaft. A bellcrank is used so that the tip of the shaft can actuate it to engage hook into the hole. 
+The idea is to use the cross-drilled hole to drive the motor shaft. A bell crank mechanism is used such that the tip of the shaft actuates it, allowing a hook to engage with the hole.
 
-<img src="https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/concept.jpeg" width="300"/>
+![Concept Sketch](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/concept.jpeg)
 
-With the hooks in place we the shaft can me rotated if the pivot is rotated arounf the same axis as the shaft
+Once the hooks are engaged, the shaft can be rotated by rotating the pivot about the same axis as the shaft.
 
 ## Geometry
 
-The dimensions are solved for graphically in CAD. The hole is 40mm from the tip and the hook has to be out of the way while shaft is coming in to actuate the bellcrank. 
+The dimensions were solved graphically in CAD. Since the hole is located 40 mm from the tip, the hook must remain out of the way while the shaft is being inserted and should engage only after actuating the bell crank.
 
-<img src="https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Geometry.jpeg" width="300"/>
+![Geometry](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Geometry.jpeg)
 
-The blue rectangle represents the shaft after it actuates the bellcrank.
+The blue rectangle represents the shaft after it actuates the bell crank.
 
 ## Design and Iterations
 
-The main idea is to house the bellcrank mechanism onto a cylinder which inturn can be placed in a spindle assembly power by some motor of desired speed. The cylinder will have a bore matching th Shaft dia to accept it inside.
+The core idea is to house the bell crank mechanism inside a cylindrical body. This cylinder can be mounted in a spindle assembly powered by a motor operating at the desired speed. The cylinder has a bore matching the shaft diameter to allow proper insertion of the shaft.
 
-<img src="https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/cylinder.png" width="300"/>
+![Cylinder Design](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/cylinder.png)
 
-The first and 3rd steps are make to fit into a 17mm bearing the 4th step is used to couple it to a motor. There are slots on both sides to allow the hooks to enter the bore.
-
-
-
-
-
-
-
+The first and third steps are designed to fit into a 17 mm bearing. The fourth step is used to couple the assembly to a motor. Slots are provided on both sides of the cylinder to allow the hooks to enter the bore.
