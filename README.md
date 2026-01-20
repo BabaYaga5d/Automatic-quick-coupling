@@ -8,6 +8,8 @@ A motor needs its shaft to be roatated constantly to reduce the make the assembl
 
 ![Shaft]([Automatic-quick-coupling/Images/Shaft.jpeg](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Shaft.jpeg))
 
+<img src="[path/to/your/image.png](https://github.com/BabaYaga5d/Automatic-quick-coupling/blob/main/Images/Shaft.jpeg)" width="300"/>
+
 ## Concept
 
 The idea is to use the crossdrilled hole to drive the motor shaft. A bellcrank is used so that the tip of the shaft can actuate it to engage hook into the hole. 
@@ -31,6 +33,7 @@ The main idea is to house the bellcrank mechanism onto a cylinder which inturn c
 ![Cylinder](Images\cylinder.png)
 
 The first and 3rd steps are make to fit into a 17mm bearing the 4th step is used to couple it to a motor. There are slots on both sides to allow the hooks to enter the bore.
+
 
 
 
